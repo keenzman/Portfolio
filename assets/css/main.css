@@ -2573,6 +2573,11 @@ input, select, textarea {
 			display: block;
 		}
 
+			.image.portfolio img {
+				height: 502px;
+				width: 495px;
+			}
+
 		.image.left, .image.right {
 			max-width: 40%;
 		}
@@ -2600,8 +2605,15 @@ input, select, textarea {
 		}
 
 			.image.fit img {
-				width: 100%;
+				width: 25%;
 			}
+
+				.image.fit.center img {
+					display: block;
+					margin-left: auto;
+					margin-right: auto;
+					width: 25%;
+				}
 
 		.image.main {
 			display: block;
