@@ -3,7 +3,7 @@ $(document).ready(function(){
 			strings: ["Recent Graduate from King's College London.", "UX/UI Enthusiast.", "Front-End Developer."],
 			typeSpeed: 90,
 			loop: true,
-			startDelay: 1000,
+			startDelay: 100,
 			showCursor: false
 
 		});

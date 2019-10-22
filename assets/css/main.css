@@ -2604,15 +2604,67 @@ input, select, textarea {
 			width: 100%;
 		}
 
-			.image.fit img {
-				width: 25%;
-			}
+				.image.fit.center.main img {
+					display: block;
+					margin-left: auto;
+					margin-right: auto;
+					width: 60%;
+				}
+
+				.image.fit.left.other img {
+					display: block;
+					margin-left: auto;
+					margin-right: auto;
+					width: 50%;
+				}
+
+				.image.fit.right.other img {
+					display: block;
+					margin-left: auto;
+					margin-right: auto;
+					width: 50%;
+				}
+
+				.image.fit.center.process img {
+					display: block;
+					margin-left: auto;
+					margin-right: auto;
+					width: 50%;
+				}
+
+				.image.fit.center.ideas img {
+					display: block;
+					margin-left: auto;
+					margin-right: auto;
+					width: 35%;
+				}
 
 				.image.fit.center img {
 					display: block;
 					margin-left: auto;
 					margin-right: auto;
-					width: 25%;
+					width: 60%;
+				}
+
+				.image.fit.center.side img {
+					display: block;
+					margin-left: auto;
+					margin-right: auto;
+					width: 50%;
+				}
+
+				.image.fit.left.select img {
+					display: block;
+					margin-left: auto;
+					margin-right: auto;
+					width: 50%;
+				}
+
+				.image.fit.right.select img {
+					display: block;
+					margin-left: auto;
+					margin-right: auto;
+					width: 50%;
 				}
 
 		.image.main {
