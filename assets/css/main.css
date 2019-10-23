@@ -2632,6 +2632,34 @@ input, select, textarea {
 					width: 50%;
 				}
 
+				.image.fit.center.process.flow img {
+					display: block;
+					margin-left: auto;
+					margin-right: auto;
+					width: 70%;
+				}
+
+				.image.fit.center.process.sketch img {
+					display: block;
+					margin-left: auto;
+					margin-right: auto;
+					width: 40%;
+				}
+
+				.image.fit.center.process.outcome img {
+					display: block;
+					margin-left: auto;
+					margin-right: auto;
+					width: 50%;
+				}
+
+				.image.fit.center.process.wireflow img {
+					display: block;
+					margin-left: auto;
+					margin-right: auto;
+					width: 100%;
+				}
+
 				.image.fit.center.ideas img {
 					display: block;
 					margin-left: auto;

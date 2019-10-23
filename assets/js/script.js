@@ -1,9 +1,9 @@
 $(document).ready(function(){
 	var typed = new Typed(".typed", {
-			strings: ["Recent Graduate from King's College London.", "UX/UI Enthusiast.", "Front-End Developer."],
+			strings: ["Recent Graduate from King's College London.", "UX/UI Enthusiast."],
 			typeSpeed: 90,
 			loop: true,
-			startDelay: 100,
+			startDelay: 200,
 			showCursor: false
 
 		});
