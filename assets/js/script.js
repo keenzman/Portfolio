@@ -17,4 +17,4 @@ $("#contact").submit(function(e)) {
 		{
 			alert("Thank you!");
 		});
-};	
+});	
