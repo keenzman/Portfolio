@@ -2639,6 +2639,13 @@ input, select, textarea {
 					width: 70%;
 				}
 
+				.image.fit.center.process.flow.art img {
+					display: block;
+					margin-left: auto;
+					margin-right: auto;
+					width: 100%;
+				}
+
 				.image.fit.center.process.sketch img {
 					display: block;
 					margin-left: auto;
@@ -2660,11 +2667,18 @@ input, select, textarea {
 					width: 100%;
 				}
 
+				.image.fit.center.process.wireflow.art img {
+					display: block;
+					margin-left: auto;
+					margin-right: auto;
+					width: 100%;
+				}
+
 				.image.fit.center.ideas img {
 					display: block;
 					margin-left: auto;
 					margin-right: auto;
-					width: 35%;
+					width: 50%;
 				}
 
 				.image.fit.center img {
@@ -2678,7 +2692,7 @@ input, select, textarea {
 					display: block;
 					margin-left: auto;
 					margin-right: auto;
-					width: 50%;
+					width: 40%;
 				}
 
 				.image.fit.left.select img {
